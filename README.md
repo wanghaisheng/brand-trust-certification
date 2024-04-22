@@ -3,7 +3,14 @@ score any brand or website to tell whether it is legit
 
 
 
-# story
+# story en
+
+
+
+
+# story cn
+
+
 
 大家好，我是 wanghaisheng。今天我想和大家分享一下我最近在使用 AI 工具进行创意实现过程中的一些心得体会。
 
