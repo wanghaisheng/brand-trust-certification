@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+
+    <title>全方位网站评估 - 智能检测，安心浏览</title>
+    <style>
+      body {
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f7f7f7;
+        line-height: 1.6;
+      }
+      .container {
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+      }
+      .header,
+      .main-content,
+      .footer,
+      .pricing {
+        text-align: center;
+      }
+      .header {
+        background: #0056b3;
+        color: white;
+        padding: 40px 20px;
+      }
+      .header h1 {
+        margin: 0 0 10px;
+      }
+      .header p {
+        margin: 0;
+      }
+      .main-content {
+        padding: 40px 20px;
+      }
+      .footer,
+      .pricing {
+        background: #333;
+        color: white;
+        padding: 20px;
+      }
+      .search-box {
+        margin-bottom: 20px;
+      }
+      .search-box input[type="text"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border-radius: 4px;
+        box-shadow: inset 0 1px 3px #ddd;
+      }
+      .search-box button {
+        padding: 10px 20px;
+        font-size: 18px;
+        background: #0056b3;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+      }
+      .search-box button:hover {
+        background: #003d82;
+      }
+      .features,
+      .pricing-plans {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 20px -10px;
+      }
+      .feature,
+      .plan {
+        flex-basis: calc(33.333% - 20px);
+        margin: 10px;
+        padding: 20px;
+        background: white;
+        border-radius: 4px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      }
+      .feature i {
+        font-size: 2em;
+        color: #0056b3;
+        margin-bottom: 10px;
+      }
+      .comparison-table {
+        margin: 20px 0;
+        overflow-x: auto;
+      }
+      .comparison-table table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 0;
+      }
+      .comparison-table th,
+      .comparison-table td {
+        padding: 12px;
+        border: 1px solid #ddd;
+        text-align: center;
+      }
+      .comparison-table th {
+        background-color: #0056b3;
+        color: white;
+      }
+      .cta {
+        margin: 20px 0;
+      }
+      .cta button {
+        padding: 10px 20px;
+        font-size: 18px;
+        background: #0056b3;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background 0.3s ease;
+      }
+      .cta button:hover {
+        background: #003d82;
+      }
+      @media (max-width: 768px) {
+        .header,
+        .main-content,
+        .footer,
+        .pricing {
+          padding: 20px;
+        }
+        .features,
+        .pricing-plans {
+          flex-direction: column;
+        }
+        .feature,
+        .plan {
+          margin: 10px 0;
+          flex-basis: auto;
+        }
+        .search-box input[type="text"],
+        .search-box button {
+          font-size: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header container">
+      <h1>全方位网站评估 - 智能检测，安心浏览</h1>
+      <p>深入分析，全面保护 — 您的网站合法性综合分析专家</p>
+    </div>
+
+    <div class="main-content container">
+      <div class="search-box">
+        <input type="text" placeholder="Enter your website URL" />
+        <button type="button">开始检查</button>
+      </div>
+
+      <!-- 工具亮点 -->
+      <div class="features">
+        <div class="feature">
+          <i class="fas fa-check-circle"></i>
+          <h3>实时安全性评分</h3>
+          <p>SSL证书监控与漏洞扫描，确保网站安全。</p>
+        </div>
+        <div class="feature">
+          <i class="fas fa-chart-line"></i>
+          <h3>市场声誉与SEO综合分析</h3>
+          <p>提升市场表现和搜索引擎优化。</p>
+        </div>
+        <div class="feature">
+          <i class="fas fa-globe"></i>
+          <h3>无障碍访问与多语言支持</h3>
+          <p>确保网站对所有用户开放。</p>
+        </div>
+        <!-- 更多亮点 -->
+      </div>
+
+      <!-- 竞品比较 -->
+      <div class="comparison-table">
+        <table>
+          <tr>
+            <th>功能点</th>
+            <th>您的工具</th>
+            <th>竞争对手1</th>
+            <th>竞争对手2</th>
+            <th>竞争对手3</th>
+          </tr>
+          <tr>
+            <td>实时安全性评分</td>
+            <td><i class="fas fa-check"></i></td>
+            <td><i class="fas fa-check"></i></td>
+            <td><i class="fas fa-check"></i></td>
+            <td><i class="fas fa-check"></i></td>
+          </tr>
+          <tr>
+            <td>社交媒体信任度分析</td>
+            <td><i class="fas fa-check"></i></td>
+            <td><i class="fas fa-times"></i></td>
+            <td><i class="fas fa-check"></i></td>
+            <td><i class="fas fa-times"></i></td>
+          </tr>
+          <!-- 更多比较项 -->
+        </table>
+      </div>
+
+      <!-- 定价计划 -->
+      <div class="pricing">
+        <h2>定价计划</h2>
+        <div class="pricing-plans">
+          <div class="plan">
+            <h3>基础版</h3>
+            <p><strong>免费</strong></p>
+            <p>适合个人和小规模网站</p>
+            <ul>
+              <li>实时安全性评分</li>
+              <li>基本SEO分析</li>
+              <li>社交媒体存在检查</li>
+            </ul>
+          </div>
+          <div class="plan">
+            <h3>专业版</h3>
+            <p><strong>$19.99/月</strong></p>
+            <p>适合中型企业</p>
+            <ul>
+              <li>所有基础版功能</li>
+              <li>高级SEO分析</li>
+              <li>社交媒体信任度分析</li>
+            </ul>
+          </div>
+          <div class="plan">
+            <h3>企业版</h3>
+            <p><strong>自定义报价</strong></p>
+            <p>适合大型企业</p>
+            <ul>
+              <li>所有专业版功能</li>
+              <li>定制报告</li>
+              <li>专属客户支持</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="cta">
+        <button type="button">选择计划</button>
+        <button type="button">嵌入徽章</button>
+      </div>
+    </div>
+
+    <div class="footer container">
+      <p>FAQ | 隐私政策 | 联系方式</p>
+    </div>
+  </body>
+</html>
