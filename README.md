@@ -24,4 +24,13 @@ This is what I wanted to share with you today, and I hope you can gain some insp
 # demo url
 
 - kimi gen code
+
+* [1](https://wanghaisheng.github.io/brand-trust-certification/brandtrust.html)
+* [2](https://wanghaisheng.github.io/brand-trust-certification/brandtrust-v2.html)
+* [3](https://wanghaisheng.github.io/brand-trust-certification/brandtrust-v3.html)
+* [4](https://wanghaisheng.github.io/brand-trust-certification/brandtrust-v4.html)
+* [5](https://wanghaisheng.github.io/brand-trust-certification/brandtrust-v5.html)
+
 - claude gen code
+
+* [demo](https://brand-trust-certification.vercel.app/)
