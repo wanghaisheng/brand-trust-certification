@@ -1,0 +1,10 @@
+{
+        "name": "brandtrust-website-assessment-tool",
+        "version": "1.0.0",
+        "scripts": {
+                "start": "serve ./public"
+        },
+        "devDependencies": {
+                "serve": "^11.3.2"
+        }
+}

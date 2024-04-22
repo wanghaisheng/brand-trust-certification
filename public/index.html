@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title data-i18n="title"></title>
+    <meta name="description" data-i18n="meta.description" />
+    <link rel="canonical" href="https://example.com/" />
+    <link rel="alternate" href="https://example.com/en-US/" hreflang="en-US" />
+    <link rel="alternate" href="https://example.com/zh-CN/" hreflang="zh-CN" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="language-switcher">
+        <select id="lang-select">
+          <option value="zh-CN">中文</option>
+          <option value="en-US">English</option>
+        </select>
+      </div>
+      <h1 data-i18n="header.title"></h1>
+      <p data-i18n="header.subtitle"></p>
+      <p data-i18n="header.description"></p>
+    </header>
+    <main>
+      <section class="join-waitlist">
+        <h2 data-i18n="waitlist.title"></h2>
+        <p data-i18n="waitlist.description"></p>
+        <form>
+          <label for="waitlist-email" data-i18n="waitlist.email.label"></label>
+          <input
+            type="email"
+            id="waitlist-email"
+            data-i18n-placeholder="waitlist.email.placeholder"
+            required
+          />
+          <button type="submit" data-i18n="waitlist.submit"></button>
+        </form>
+      </section>
+      <!-- <section class="search-box">
+        <input type="text" data-i18n-placeholder="search.placeholder" />
+        <button data-i18n="search.button"></button>
+      </section> -->
+      <section class="features">
+        <h2 data-i18n="features.title"></h2>
+        <ul>
+          <li>
+            <img src="icon1.png" alt="实时安全性评分" />
+            <h3 data-i18n="features.item1.title"></h3>
+            <p data-i18n="features.item1.description"></p>
+          </li>
+          <li>
+            <img src="icon2.png" alt="社交媒体信任度分析" />
+            <h3 data-i18n="features.item2.title"></h3>
+            <p data-i18n="features.item2.description"></p>
+          </li>
+          <li>
+            <img src="icon3.png" alt="法律合规性检查" />
+            <h3 data-i18n="features.item3.title"></h3>
+            <p data-i18n="features.item3.description"></p>
+          </li>
+          <li>
+            <img src="icon4.png" alt="市场声誉与SEO综合分析" />
+            <h3 data-i18n="features.item4.title"></h3>
+            <p data-i18n="features.item4.description"></p>
+          </li>
+          <li>
+            <img src="icon5.png" alt="安全与信任度评级" />
+            <h3 data-i18n="features.item5.title"></h3>
+            <p data-i18n="features.item5.description"></p>
+          </li>
+          <li>
+            <img src="icon6.png" alt="无障碍访问与多语言支持" />
+            <h3 data-i18n="features.item6.title"></h3>
+            <p data-i18n="features.item6.description"></p>
+          </li>
+        </ul>
+      </section>
+      <section class="comparison">
+        <h2 data-i18n="comparison.title"></h2>
+        <table>
+          <thead>
+            <tr>
+              <th data-i18n="comparison.feature"></th>
+              <th data-i18n="comparison.ourTool"></th>
+              <th data-i18n="comparison.competitor1"></th>
+              <th data-i18n="comparison.competitor2"></th>
+              <th data-i18n="comparison.competitor3"></th>
+              <th data-i18n="comparison.note"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td data-i18n="comparison.row1.feature"></td>
+              <td data-i18n="comparison.row1.ourTool"></td>
+              <td data-i18n="comparison.row1.competitor1"></td>
+              <td data-i18n="comparison.row1.competitor2"></td>
+              <td data-i18n="comparison.row1.competitor3"></td>
+              <td data-i18n="comparison.row1.note"></td>
+            </tr>
+            <tr>
+              <td data-i18n="comparison.row2.feature"></td>
+              <td data-i18n="comparison.row2.ourTool"></td>
+              <td data-i18n="comparison.row2.competitor1"></td>
+              <td data-i18n="comparison.row2.competitor2"></td>
+              <td data-i18n="comparison.row2.competitor3"></td>
+              <td data-i18n="comparison.row2.note"></td>
+            </tr>
+            <tr>
+              <td data-i18n="comparison.row3.feature"></td>
+              <td data-i18n="comparison.row3.ourTool"></td>
+              <td data-i18n="comparison.row3.competitor1"></td>
+              <td data-i18n="comparison.row3.competitor2"></td>
+              <td data-i18n="comparison.row3.competitor3"></td>
+              <td data-i18n="comparison.row3.note"></td>
+            </tr>
+            <tr>
+              <td data-i18n="comparison.row4.feature"></td>
+              <td data-i18n="comparison.row4.ourTool"></td>
+              <td data-i18n="comparison.row4.competitor1"></td>
+              <td data-i18n="comparison.row4.competitor2"></td>
+              <td data-i18n="comparison.row4.competitor3"></td>
+              <td data-i18n="comparison.row4.note"></td>
+            </tr>
+            <tr>
+              <td data-i18n="comparison.row5.feature"></td>
+              <td data-i18n="comparison.row5.ourTool"></td>
+              <td data-i18n="comparison.row5.competitor1"></td>
+              <td data-i18n="comparison.row5.competitor2"></td>
+              <td data-i18n="comparison.row5.competitor3"></td>
+              <td data-i18n="comparison.row5.note"></td>
+            </tr>
+            <tr>
+              <td data-i18n="comparison.row6.feature"></td>
+              <td data-i18n="comparison.row6.ourTool"></td>
+              <td data-i18n="comparison.row6.competitor1"></td>
+              <td data-i18n="comparison.row6.competitor2"></td>
+              <td data-i18n="comparison.row6.competitor3"></td>
+              <td data-i18n="comparison.row6.note"></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section class="unique-selling-points">
+        <h2 data-i18n="unique-selling-points.title"></h2>
+        <ul>
+          <li data-i18n="unique-selling-points.point1"></li>
+          <li data-i18n="unique-selling-points.point2"></li>
+          <li data-i18n="unique-selling-points.point3"></li>
+          <li data-i18n="unique-selling-points.point4"></li>
+        </ul>
+      </section>
+
+      <section class="pricing">
+        <div class="container">
+          <h2 data-i18n="pricing.title"></h2>
+          <div class="plans">
+            <!-- 个人用户计划 -->
+            <div class="plan personal-plan">
+              <h3 data-i18n="pricing.personal.free.title"></h3>
+              <ul>
+                <li data-i18n="pricing.personal.free.feature1"></li>
+                <li data-i18n="pricing.personal.free.feature2"></li>
+              </ul>
+              <button
+                class="cta-button"
+                data-i18n="pricing.personal.free.cta"
+              ></button>
+            </div>
+            <div class="plan personal-plan">
+              <h3 data-i18n="pricing.personal.pro.title"></h3>
+              <ul>
+                <li data-i18n="pricing.personal.pro.feature1"></li>
+                <li data-i18n="pricing.personal.pro.feature2"></li>
+              </ul>
+              <button
+                class="cta-button"
+                data-i18n="pricing.personal.pro.cta"
+              ></button>
+            </div>
+            <div class="plan personal-plan">
+              <h3 data-i18n="pricing.personal.lifetime.title"></h3>
+              <ul>
+                <li data-i18n="pricing.personal.lifetime.feature1"></li>
+                <li data-i18n="pricing.personal.lifetime.feature2"></li>
+                <li data-i18n="pricing.personal.lifetime.feature3"></li>
+                <li data-i18n="pricing.personal.lifetime.feature4"></li>
+              </ul>
+              <button
+                class="cta-button"
+                data-i18n="pricing.personal.lifetime.cta"
+              ></button>
+            </div>
+            <!-- 企业用户计划 -->
+            <div class="plan business-plan">
+              <h3 data-i18n="pricing.business.title"></h3>
+              <ul>
+                <li data-i18n="pricing.business.feature1"></li>
+                <li data-i18n="pricing.business.feature2"></li>
+                <li data-i18n="pricing.business.feature3"></li>
+                <li data-i18n="pricing.business.feature4"></li>
+              </ul>
+              <button
+                class="cta-button"
+                data-i18n="pricing.business.cta"
+              ></button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="badge">
+        <h2 data-i18n="badge.title"></h2>
+        <img src="badge.png" alt="网站徽章" />
+        <p data-i18n="badge.description"></p>
+        <a href="#" data-i18n="badge.link"></a>
+      </section>
+      <section class="testimonials">
+        <h2 data-i18n="testimonials.title"></h2>
+        <ul>
+          <li>
+            <p data-i18n="testimonials.item1.text"></p>
+            <p data-i18n="testimonials.item1.author"></p>
+          </li>
+          <li>
+            <p data-i18n="testimonials.item2.text"></p>
+            <p data-i18n="testimonials.item2.author"></p>
+          </li>
+        </ul>
+      </section>
+      <section class="faq">
+        <h2 data-i18n="faq.title"></h2>
+        <ul>
+          <li>
+            <h3 data-i18n="faq.item1.question"></h3>
+            <p data-i18n="faq.item1.answer"></p>
+          </li>
+          <li>
+            <h3 data-i18n="faq.item2.question"></h3>
+            <p data-i18n="faq.item2.answer"></p>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-links">
+        <a href="index.html" data-i18n="footer.home"></a>
+
+        <a href="privacy-policy.html" data-i18n="footer.privacy"></a>
+        <a href="contact.html" data-i18n="footer.contact"></a>
+        <a href="terms-of-service.html" data-i18n="footer.terms"></a>
+      </div>
+      <p data-i18n="footer.powerby"></p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,233 @@
+{
+        "meta": {
+                "description": "Comprehensive Website Assessment - Smart Detection, Safe Browsing"
+        },
+        "title": "Comprehensive Website Assessment - Smart Detection, Safe Browsing",
+        "header": {
+                "title": "Comprehensive Website Assessment - Smart Detection, Safe Browsing",
+                "subtitle": "In-depth Analysis, All-round Protection - Your Expert in Website Legitimacy Analysis",
+                "description": "We provide comprehensive website security assessment services to help you identify potential risks and enhance website trustworthiness."
+        },
+        "search": {
+                "placeholder": "Enter website address",
+                "button": "Start Detection"
+        },
+        "waitlist": {
+                "title": "Join the Waitlist",
+                "description": "Leave your email, and we'll notify you as soon as the product is available.",
+                "email": {
+                        "label": "Email Address:",
+                        "placeholder": "Enter your email"
+                },
+                "submit": "Submit"
+        },
+        "features": {
+                "title": "Tool Highlights",
+                "item1": {
+                        "title": "Real-time Security Score",
+                        "description": "SSL certificate monitoring and vulnerability scanning"
+                },
+                "item2": {
+                        "title": "Social Media Trust Analysis",
+                        "description": "Activity score and sentiment tendency"
+                },
+                "item3": {
+                        "title": "Legal Compliance Check",
+                        "description": "Ensure website compliance with data protection regulations"
+                },
+                "item4": {
+                        "title": "Market Reputation and SEO Analysis",
+                        "description": "Market performance and search engine optimization"
+                },
+                "item5": {
+                        "title": "Security and Trust Rating",
+                        "description": "Comprehensive website security and payment system"
+                },
+                "item6": {
+                        "title": "Accessibility and Multilingual Support",
+                        "description": "Ensure website is open to all users"
+                }
+        },
+        "comparison": {
+                "title": "Competitor Comparison",
+                "feature": "Feature",
+                "ourTool": "Our Tool",
+                "competitor1": "SecureSite",
+                "competitor2": "TrustWeb",
+                "competitor3": "SafeInspect",
+                "note": "Note",
+                "row1": {
+                        "feature": "Real-time Security Score",
+                        "ourTool": "√",
+                        "competitor1": "√",
+                        "competitor2": "√",
+                        "competitor3": "√",
+                        "note": "We provide SSL certificate status monitoring"
+                },
+                "row2": {
+                        "feature": "Social Media Activity Score",
+                        "ourTool": "√",
+                        "competitor1": "×",
+                        "competitor2": "×",
+                        "competitor3": "×",
+                        "note": "Unique social media analysis feature"
+                },
+                "row3": {
+                        "feature": "Social Media Sentiment Analysis",
+                        "ourTool": "√",
+                        "competitor1": "×",
+                        "competitor2": "×",
+                        "competitor3": "×",
+                        "note": "Advanced AI-based sentiment analysis"
+                },
+                "row4": {
+                        "feature": "Website Trust Rating",
+                        "ourTool": "√",
+                        "competitor1": "×",
+                        "competitor2": "×",
+                        "competitor3": "×",
+                        "note": "Comprehensive multi-dimensional scoring system"
+                },
+                "row5": {
+                        "feature": "Review Authenticity Check",
+                        "ourTool": "√",
+                        "competitor1": "×",
+                        "competitor2": "×",
+                        "competitor3": "×",
+                        "note": "Machine learning-based fake review detection"
+                },
+                "row6": {
+                        "feature": "Blacklist Comparison",
+                        "ourTool": "√",
+                        "competitor1": "×",
+                        "competitor2": "×",
+                        "competitor3": "×",
+                        "note": "Exclusive blacklist database"
+                }
+        },
+        "unique-selling-points": {
+                "title": "Our Unique Advantages",
+                "point1": "In-depth social media analysis, providing activity and sentiment scores",
+                "point2": "Advanced machine learning algorithms effectively identify fake reviews",
+                "point3": "Comprehensive security, user experience, and other multi-dimensional data to generate website trust ratings",
+                "point4": "Exclusive blacklist database to comprehensively identify potential risks"
+        },
+        "badge": {
+                "title": "Get Your Website Badge",
+                "description": "Display our assessment badge on your website to enhance its credibility and authority.",
+                "link": "Get Embedding Code"
+        },
+        "testimonials": {
+                "title": "User Testimonials"
+        },
+        "faq": {
+                "title": "Frequently Asked Questions",
+                "item1": {
+                        "question": "How long does the assessment take?",
+                        "answer": "The complete assessment process typically takes less than 5 minutes, and you will receive the report immediately."
+                },
+                "item2": {
+                        "question": "How do I choose the right plan for my needs?",
+                        "answer": "We offer a variety of pricing plans to suit different website sizes and requirements. You can review the detailed plan comparison or contact our customer service for a personalized recommendation."
+                }
+        },
+        "terms-of-service": {
+                "title": "Terms of Service",
+                "section1": {
+                        "title": "Service Overview",
+                        "content": "These Terms of Service apply to your use of all products and services we provide. By using our services, you agree to comply with these terms."
+                },
+                "section2": {
+                        "title": "Accounts and Security",
+                        "content": "You are responsible for protecting the security of your account information. We are not liable for any unauthorized access or use."
+                },
+                "section3": {
+                        "title": "Intellectual Property",
+                        "content": "Our products and services contain content protected by copyright, trademark, and other intellectual property rights. You may not use, copy, or distribute this content without our permission."
+                },
+                "section4": {
+                        "title": "Usage Restrictions",
+                        "content": "You may not use our services in any unlawful or harmful way. We reserve the right to modify or terminate the services at any time."
+                },
+                "section5": {
+                        "title": "Limitation of Liability",
+                        "content": "We are not responsible for any direct, indirect, incidental, special, or consequential damages resulting from your use of our services. You use our services at your own risk."
+                }
+        },
+        "footer": {
+                "home": "Home",
+                "privacy": "Privacy Policy",
+                "contact": "Contact Us",
+                "powerby": "&copy; 2023 Powerby BrandTrust LLC",
+                "terms": "Terms of Service"
+        },
+        "privacy-policy": {
+                "title": "Privacy Policy",
+                "section1": {
+                        "title": "Information Collection",
+                        "content": "We may collect your name, email address, phone number, and other personal information to provide you with better services. We promise not to disclose this information to any third party."
+                },
+                "section2": {
+                        "title": "Information Usage",
+                        "content": "The information we collect will only be used to provide and improve our products and services, and will not be used for any other purpose. We will take appropriate security measures to protect your privacy."
+                },
+                "section3": {
+                        "title": "Cookies and Tracking",
+                        "content": "We may use cookies and other tracking technologies to enhance your user experience, but not for any purpose that infringes on your privacy. You can manage the use of cookies in your browser settings."
+                },
+                "section4": {
+                        "title": "Data Sharing",
+                        "content": "We may share necessary information with third-party service providers to better serve you, but we will ensure that these providers adhere to the same privacy protection standards."
+                },
+                "section5": {
+                        "title": "Privacy Policy Changes",
+                        "content": "We may update this privacy policy from time to time. Any significant changes will be posted on this page and you will be notified before they take effect. If you have any questions or suggestions about our privacy policy, feel free to contact us."
+                }
+        },
+        "contact": {
+                "title": "Contact Us",
+                "phone": "Phone: 123-456-7890",
+                "email": "Email: info@websiteassessment.com",
+                "address": "Address: 1801 XX Building, Chaoyang District, Beijing",
+                "form": {
+                        "name": "Name:",
+                        "email": "Email:",
+                        "message": "Message:",
+                        "submit": "Submit"
+                }
+        },
+        "pricing": {
+                "title": "Flexible Pricing Plans",
+                "personal": {
+                        "free": {
+                                "title": "Personal - Free",
+                                "feature1": "3 daily checks",
+                                "feature2": "Basic analysis report",
+                                "cta": "Choose Free"
+                        },
+                        "pro": {
+                                "title": "Personal - Pro",
+                                "feature1": "$19.9/year",
+                                "feature2": "20 daily checks",
+                                "feature3": "Advanced analysis report",
+                                "cta": "Choose Pro"
+                        },
+                        "lifetime": {
+                                "title": "Personal - Lifetime",
+                                "feature1": "$59.9",
+                                "feature2": "One-time payment",
+                                "feature3": "Unlimited checks",
+                                "feature4": "All Pro features",
+                                "cta": "Choose Lifetime"
+                        }
+                },
+                "business": {
+                        "title": "Business - Enterprise",
+                        "feature1": "$299/year for 1 domain badge",
+                        "feature2": "Unlimited checks",
+                        "feature3": "Advanced analysis report",
+                        "feature4": "Dedicated badge display",
+                        "cta": "Choose Enterprise"
+                }
+        }
+}
