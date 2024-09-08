@@ -7,6 +7,11 @@ score any brand or website to tell whether it is legit
 https://github.com/0xDanielLopez/TweetFeed
 
 
+
+blog to attract traffic
+
+profit from sponsor and cerfication 
+
 # story en
 
 Dear readers,
