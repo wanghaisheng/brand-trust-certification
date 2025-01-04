@@ -2,6 +2,15 @@
 
 score any brand or website to tell whether it is legit
 
+
+
+use  stanform storm
+
+https://storm.genie.stanford.edu/
+
+测试能否生成报告
+
+
 是不是钓鱼网站
 
 https://github.com/0xDanielLopez/TweetFeed
